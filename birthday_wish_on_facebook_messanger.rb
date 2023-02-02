@@ -1,4 +1,3 @@
-require 'cucumber'
 require 'watir'
 require 'webdrivers'
 
